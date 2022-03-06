@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andremaesha
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack, go-lang
 - 💞️ I’m looking to collaborate on MERN Stack Project
 - 📫 How to reach me andremaesha@gmail.com
 
